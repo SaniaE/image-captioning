@@ -4,3 +4,4 @@ img_captioning/
 complete_image_set/
 checkpoints/
 *.txt
+embedding/
