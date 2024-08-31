@@ -16,3 +16,4 @@ jupyterlab==4.2.1
 jupyter==1.0.0 
 jupyter_client==8.6.0 
 jupyterlab_widgets==3.0.11 
+sentence-transformers==3.0.1
