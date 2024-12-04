@@ -3,7 +3,7 @@
 
 Annotating images for AI models can be a time-consuming and challenging task, especially when dealing with niche datasets. This project was created to address the need for a more efficient and scalable approach to image annotation, specifically for the **"Prompt-based AI-generated UI"** project. It explores an automated solution for image captioning, significantly speeding up dataset creation while improving the diversity and accuracy of annotations.
 
-![Image Inference Plots](image.png)
+![Image Inference Plots](screenshots/inference_plots.png)
 
 To achieve this, the following image captioning models have been fine-tuned:
 - **[Git](https://huggingface.co/microsoft/git-base)**:  GenerativeImage2Text, base-sized 
@@ -16,7 +16,7 @@ An intuitive interface was developed to streamline the captioning process, allow
 
 ## Features
 
-![UI Design](image-1.png)
+![UI Design](screenshots/combining_annotations.png)
 
 - **Folder Navigation & Export:** Easily navigate through a folder containing images and generate customized annotation text files for each image.
 - **Caption Generation:** Load fine-tuned image captioning models (Git, BLIP, Git + ViT ensemble) to generate and display diverse captions for each image.
