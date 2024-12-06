@@ -57,7 +57,7 @@ An intuitive interface was developed to streamline the captioning process, allow
     jupyter notebook
 
 6. Open the notebooks: 
-    - Open `Combining annotations.ipynb` to explore annotation creation 
-    - Alternatively, open `Fine-tune image captioning model <model_type>.ipynb` to explore fine-tuning setup. 
-    - Checkout the experiments folder to explore the experiments conducted during the project.
+    - `Combining annotations.ipynb`: This notebook guides you through the annotation creation process. Please update the model configurations to match your local setup in order to use it effectively.  
+    - `Fine-tune image captioning model <model_type>.ipynb`: Explores the fine-tuning setup for each image captioning model. 
+    - `Experiments folder`: Browse the experiments folder to delve deeper into the experiments conducted throughout the project.
 
